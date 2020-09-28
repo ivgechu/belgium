@@ -1,0 +1,98 @@
+body {
+	background-color:#FFE4B5;
+	margin:0;
+    font-family: arial,sans-serif;
+}
+main p {
+	font-size:25px;
+}
+div {
+	float:left;
+}
+li {
+	display:inline-block;
+	margin:0 3%;
+	font-size:30px;
+}
+li a {
+	color:aliceblue;
+	text-decoration:none;
+}
+h1 {
+	font-size:35px;
+	text-align:center;
+}
+h2 {
+	font-size:30px;
+}
+.blg {
+    width: 280px;
+}
+.glk {
+	width:100%;
+}
+.gl {
+	width:100%;
+}
+.sod {
+	width:100%;
+	background-color:#000000;
+    position: fixed;
+    top: 0;
+    text-align: center;
+}
+.txt {
+	margin:0 8px;
+}
+.ftr {
+    width: 100%;
+}
+.ftr table {
+	background-color:rgba(0,0,0,0.7);
+	width:100%;
+	color:#FFFACD;
+}
+td {
+    padding-top: 10px;
+}
+.ftr td:first-child {
+    padding: 10px 200px;
+}
+.ftr td:last-child {
+    width: 80px;
+}
+.pm > li {
+    position: relative;
+}
+.krt {
+	width:100%;
+}
+.kntkt {
+	text-align:center;
+	vertical-align:top;
+	padding:10px 0;
+}
+.verx {
+	width:100%;
+}
+#copy {
+	vertical-align:bottom;
+}
+main {
+    margin-top: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.imag {
+    float: right;
+}
+nav li:hover {
+    border-bottom: 2px solid aliceblue;
+}
+.sel {
+    border-bottom: 2px solid aliceblue;
+}
+blockquote {
+    font-style: italic;
+    font-size: 24px;
+}
